@@ -1,5 +1,8 @@
 # PDF Signature and Date Inserter
 
+![Logo](catSign.jpeg)
+
+
 ## Overview
 This Python script allows you to easily add a signature image and current date to specified pages of a PDF document. It provides a convenient way to sign PDF files electronically and add the date alongside the signature.
 
